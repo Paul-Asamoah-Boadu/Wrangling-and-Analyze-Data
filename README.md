@@ -1,5 +1,5 @@
-<img src="Period has highest activity.png" alt="Alt text">
-<h1>UdacityProjectWrangling-and-Analyze-Data</h1>
+<img src="Udacity.png" alt="Udacity Data Analyst Nanodegree">
+<h1>Project: Wrangle and Analyze WeRateDogs Twitter Archive</h1>
 <h2>Table of Content</h2>
 <ul>
     <li><a href="#intro">Introduction</a></li>
