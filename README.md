@@ -31,7 +31,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs [downloaded their Twitter archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 <p align="center">
-  <img src="Tweets.png" alt="Image of Tweets" width="500" height="300">
+  <img src="Tweets.png" alt="Image of Tweets" width="900" height="800">
 </p>
 
 <h2>What Softwares Will I Use</h2>
