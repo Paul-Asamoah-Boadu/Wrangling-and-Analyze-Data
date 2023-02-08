@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Udacity.png" alt="Udacity logo">
-  <p>Udacity Data Analyst Nanodegree</p>
+  <p>Udacity Data Analyst Nanodegree
 </p>
 <h1>Project: Wrangle and Analyze WeRateDogs Twitter Archive</h1>
 <h2>Table of Content</h2>
