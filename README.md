@@ -21,8 +21,9 @@
     <li><a href="#reference">References</a></li>
 </ul>
 
-<h2>Introduction</h2>
 <a id="intro"></a>
+<h2>Introduction</h2>
+
 Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.<br><br>
 
 
@@ -34,8 +35,9 @@ WeRateDogs [downloaded their Twitter archive](https://help.twitter.com/en/managi
   <img src="Tweets.png" alt="Image of Tweets" width="800" height="700">
 </p>
 
-<h2>What Softwares Do I Need?</h2>
 <a id="softwares"></a>
+<h2>What Softwares Do I Need?</h2>
+
 The following softwares and packages (libraries) are required for this project:
 - Softwares
   - Jupyter Notebook
