@@ -1,12 +1,7 @@
-<img src="Udacity.png" alt="Udacity Data Analyst Nanodegree">
-<p>Udacity Data Analyst Nanodegree</p>
-<style>
-  .image-container {
-    position: relative;
-  }
-  .image-text {
-    position: absolute;
-    bottom: 8px;
+<p align="center">
+  <img src="Udacity.png" alt="Udacity logo">
+  <p>Udacity Data Analyst Nanodegree</p>
+</p>
 <h1>Project: Wrangle and Analyze WeRateDogs Twitter Archive</h1>
 <h2>Table of Content</h2>
 <ul>
