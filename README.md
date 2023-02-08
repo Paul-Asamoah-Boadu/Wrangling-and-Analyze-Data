@@ -8,7 +8,7 @@
 <h2>Table of Content</h2>
 <ul>
     <li><a href="#intro">Introduction</a></li>
-    <li><a href="#softwares">What Softwares will I use</a></li>
+    <li><a href="#softwares">What Softwares Will I Use</a></li>
     <li><a href="#motivation">Project Motivation</a></li>
       <ul>
             <li><a href="#gathering">Gathering Data</a></li>
@@ -22,7 +22,7 @@
 </ul>
 
 <h2>Introduction</h2>
-<a id='intro'></a>
+<a id="intro"></a>
 Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.<br><br>
 
 
@@ -30,4 +30,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 
 WeRateDogs [downloaded their Twitter archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
-<img src=".png" alt="Udacity logo">
+<img src="Tweets.png" alt="Image of Tweets">
+
+<h2>What Softwares Will I Use</h2>
+<a id="softwares"></a>
