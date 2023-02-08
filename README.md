@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Udacity.png" alt="Udacity logo">
-  <p>Udacity Data Analyst Nanodegree
+  <br>
+  <em>Udacity Data Analyst Nanodegree</em>
 </p>
+
 <h1>Project: Wrangle and Analyze WeRateDogs Twitter Archive</h1>
 <h2>Table of Content</h2>
 <ul>
