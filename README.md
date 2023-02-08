@@ -8,7 +8,7 @@
 <h2>Table of Content</h2>
 <ul>
     <li><a href="#intro">Introduction</a></li>
-    <li><a href="#softwares">What Softwares Will I Use</a></li>
+    <li><a href="#softwares">What Softwares Do I Need?</a></li>
     <li><a href="#motivation">Project Motivation</a></li>
       <ul>
             <li><a href="#gathering">Gathering Data</a></li>
@@ -34,5 +34,19 @@ WeRateDogs [downloaded their Twitter archive](https://help.twitter.com/en/managi
   <img src="Tweets.png" alt="Image of Tweets" width="800" height="700">
 </p>
 
-<h2>What Softwares Will I Use</h2>
+<h2>What Softwares Do I Need?</h2>
 <a id="softwares"></a>
+The following softwares and packages (libraries) are required for this project:
+- Softwares
+  - Jupyter Notebook
+  - Microsoft Word
+  - [Google Docs](https://www.google.com/docs/about/)
+- Packages (Libraries)
+  - pandas
+  - NumPy
+  - matplotlib
+  - seaborn
+  - requests
+  - tweepy
+  - json
+   
