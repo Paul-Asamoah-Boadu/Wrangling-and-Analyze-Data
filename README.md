@@ -54,3 +54,15 @@ The following softwares and packages (libraries) are required for this project:
    
 <a id="motivation"></a>
 <h2>Project Motivation</h2>
+
+<h3>Context</h3>
+My goal for is project is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.<br><br>
+<h3>The Data</h3>
+
+<h4>Enhanced Twitter Archive</h4>
+
+The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, I have filtered for tweets with ratings only (there are 2356).
+
+
+
+
