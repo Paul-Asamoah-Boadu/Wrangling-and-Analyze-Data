@@ -61,8 +61,9 @@ My goal for this project is to wrangle WeRateDogs Twitter data to create interes
 
 <h4>Enhanced Twitter Archive</h4>
 
-The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, I have filtered for tweets with ratings only (there are 2356).
-<img src="" alt="">
+The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which Udacity used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, Udacity filtered for tweets with ratings only (there are 2356).
+<img src="Enhanced Twitter Archive.png" alt="Enhanced Twitter Archive Data">
 
-
+Udacity extracted this data programmatically, but didn't do a very good job. The ratings probably aren't all correct. Same goes for the dog names and probably dog stages (see below for more information on these) too. I'll need to assess and clean these columns in order to use them for analysis and visualization.
+<img src="Dogtionary.png" alt="Dogtionary">
 
