@@ -52,3 +52,5 @@ The following softwares and packages (libraries) are required for this project:
   - tweepy
   - json
    
+<a id="motivation"></a>
+<h2>Project Motivation</h2>
