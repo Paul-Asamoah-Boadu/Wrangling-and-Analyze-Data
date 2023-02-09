@@ -56,7 +56,7 @@ The following softwares and packages (libraries) are required for this project:
 <h2>Project Motivation</h2>
 
 <h3>Context</h3>
-My goal for is project is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.<br><br>
+My goal for is project is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.<br>
 <h3>The Data</h3>
 
 <h4>Enhanced Twitter Archive</h4>
