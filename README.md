@@ -67,3 +67,8 @@ The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their 
 Udacity extracted this data programmatically, but didn't do a very good job. The ratings probably aren't all correct. Same goes for the dog names and probably dog stages (see below for more information on these) too. I'll need to assess and clean these columns in order to use them for analysis and visualization.
 <img src="Dogtionary.png" alt="Dogtionary">
 
+<h4>Additional Data via the Twitter API</h4>
+
+Back to the basic-ness of Twitter archives: retweet count and favorite count are two of the notable column omissions. Fortunately, this additional data can be gathered by anyone from Twitter's API. Well, "anyone" who has access to data for the 3000 most recent tweets, at least. But you, because you have the WeRateDogs Twitter archive and specifically the tweet IDs within it, can gather this data for all 5000+. And guess what? You're going to query Twitter's API to gather this valuable data.
+
+<h4>Image Predictions File</h4>
