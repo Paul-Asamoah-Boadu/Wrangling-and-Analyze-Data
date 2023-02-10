@@ -87,7 +87,9 @@ So for the last row in that table:
 - p2 is the algorithm's second most likely prediction → __Labrador retriever__
 - p2_conf is how confident the algorithm is in its #2 prediction → __1%__
 - p2_dog is whether or not the #2 prediction is a breed of dog → __TRUE__
-  etc.
+- etc.
+
+
 And the #1 prediction for the image in that tweet was spot on:
 
 <img src="prediction_image.png" alt="Image of the highest rated dog">
