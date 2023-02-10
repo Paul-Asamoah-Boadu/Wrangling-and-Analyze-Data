@@ -75,4 +75,4 @@ Back to the basic-ness of Twitter archives: retweet count and favorite count are
 
 One more cool thing: Udacity ran every image in the WeRateDogs Twitter archive through a [neural network](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) that can classify breeds of dogs*. The results: a table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
 
-<img src="Image Predictions File" alt="Snapshot of Image Predictions File">
+<img src="Image Predictions File.png" alt="Snapshot of Image Predictions File">
