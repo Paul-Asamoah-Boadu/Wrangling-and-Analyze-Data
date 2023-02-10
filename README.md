@@ -93,5 +93,7 @@ So for the last row in that table:
 And the #1 prediction for the image in that tweet was spot on:
 
 <p align="center">
-  <img src="prediction_image.png" alt="Image of the highest rated dog">
+  <img src="prediction_image.png" alt="Image of the highest rated dog" width="300" height="200">
 </p>
+
+So that's all fun and good. But all of this additional data will need to be gathered, assessed, and cleaned. This is where I come in.
