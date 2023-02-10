@@ -92,4 +92,6 @@ So for the last row in that table:
 
 And the #1 prediction for the image in that tweet was spot on:
 
-<img src="prediction_image.png" alt="Image of the highest rated dog">
+<p align="center">
+  <img src="prediction_image.png" alt="Image of the highest rated dog">
+</p>
