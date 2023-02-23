@@ -97,3 +97,21 @@ And the #1 prediction for the image in that tweet was spot on:
 </p>
 
 So that's all fun and good. But all of this additional data will need to be gathered, assessed, and cleaned. This is where I come in.
+
+<a id="details"></a>
+<h2>Project Details</h2>
+
+<a id="gathering"></a>
+<h3>Gathering Data</h3>
+
+In this step, I will gather all three pieces of data as described in the "Data Gathering" section in the `wrangle_act.ipynb` notebook.
+
+
+__Note:__ the methods required to gather each data are different.
+
+
+<h3>The WeRateDogs Twitter archive</h3>
+Udacity gave this file to me, so imagine it as a file on hand. Downloaded this file manually by clicking the following link: [`twitter_archive_enhanced.csv`](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv). Once it is downloaded, I uploaded it and read the data into a pandas DataFrame.
+
+
+
