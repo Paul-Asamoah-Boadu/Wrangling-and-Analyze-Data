@@ -119,3 +119,15 @@ Udacity gave this file to me, so imagine it as a file on hand. Downloaded this f
 Once it is downloaded, I uploaded it and read the data into a pandas DataFrame.
 
 
+<h4>The tweet image predictions</h4>
+
+This file (`image_predictions.tsv`) is present in each tweet according to a neural network. It is hosted on Udacity's servers and should be downloaded programmatically using the [Requests](https://pypi.org/project/requests/) library and the following URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
+
+<h4>Additional data from the Twitter API</h4>
+
+Gather __each tweet's retweet count__ and __favorite ("like") count__ at the minimum and any additional data you find interesting. Using the tweet IDs in the WeRateDogs Twitter archive, query the Twitter API for each tweet's JSON data using Python's [Tweepy](http://www.tweepy.org/) library and store each tweet's entire set of JSON data in a file called `tweet_json.txt` file.
+
+Each tweet's JSON data should be written to its own line. Then read this .txt file line by line into a pandas DataFrame with (at minimum) __tweet ID, retweet count, and favorite count__. 
+
+_Note: do not include your Twitter API keys, secrets, and tokens in your project submission._
+
