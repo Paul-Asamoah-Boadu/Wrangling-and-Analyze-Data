@@ -111,7 +111,11 @@ __Note:__ the methods required to gather each data are different.
 
 
 <h3>The WeRateDogs Twitter archive</h3>
-Udacity gave this file to me, so imagine it as a file on hand. Downloaded this file manually by clicking the following link: [twitter_archive_enhanced.csv](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv). Once it is downloaded, I uploaded it and read the data into a pandas DataFrame.
+Udacity gave this file to me, so imagine it as a file on hand. Downloaded this file manually by clicking the following link:
 
+[`twitter_archive_enhanced.csv`](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv).
+
+
+Once it is downloaded, I uploaded it and read the data into a pandas DataFrame.
 
 
