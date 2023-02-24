@@ -133,3 +133,21 @@ _Note: do not include your Twitter API keys, secrets, and tokens in your project
 
 <a id="assessing"></a>
 <h3>Assessing Data</h3>
+
+After gathering all three pieces of data, assess them visually and programmatically for quality and tidiness issues. Detect and document at least __eight (8) quality issues__ and __two (2) tidiness issues__ in the "Accessing Data" section in the `wrangle_act.ipynb` Jupyter Notebook.
+
+You need to use two types of assessment:
+
+- __Visual assessment:__ each piece of gathered data is displayed in the Jupyter Notebook for visual assessment purposes. Once displayed, data can additionally be assessed in an external application (e.g. Excel, text editor).
+
+- __Programmatic assessment:__ pandas' functions and/or methods are used to assess the data.
+
+To meet specifications, the following issues must be assessed.
+
+- You only want original ratings (no retweets) that have images. Though there are 5000+ tweets in the dataset, not all are dog ratings and some are retweets.
+- Assessing and cleaning the entire dataset completely would require a lot of time, and is not necessary to practice and demonstrate your skills in data wrangling. Therefore, the requirements of this project are only to assess and clean at least 8 quality issues and at least 2 tidiness issues in this dataset.
+- The fact that the rating numerators are greater than the denominators does not need to be cleaned. This unique rating system is a big part of the popularity of WeRateDogs.
+- You do not need to gather the tweets beyond August 1st, 2017. You can, but note that you won't be able to gather the image predictions for these tweets since you don't have access to the algorithm used.
+
+
+If you need some help with the datasets, you can read the page: Project Motivation.
