@@ -131,3 +131,5 @@ Each tweet's JSON data should be written to its own line. Then read this .txt fi
 
 _Note: do not include your Twitter API keys, secrets, and tokens in your project submission._
 
+<a id="assessing"></a>
+<h3>Assessing Data</h3>
