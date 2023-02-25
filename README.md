@@ -151,3 +151,6 @@ To meet specifications, the following issues must be assessed.
 
 
 If you need some help with the datasets, you can read the page: Project Motivation.
+
+<a id="cleaning"></a>
+<h3>Cleaning Data</h3>
