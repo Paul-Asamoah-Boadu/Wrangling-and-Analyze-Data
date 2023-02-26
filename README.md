@@ -160,3 +160,4 @@ Clean all of the issues you documented while assessing. Perform this cleaning in
 Make sure you complete the following items in this step.
 
 - Before you perform the cleaning, you will make a copy of the original data.
+- During cleaning, use the define-code-test framework and clearly document it.
