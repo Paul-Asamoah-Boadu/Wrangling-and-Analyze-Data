@@ -163,4 +163,4 @@ Make sure you complete the following items in this step.
 - During cleaning, use the define-code-test framework and clearly document it.
 - Cleaning includes merging individual pieces of data according to the rules of [tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html). 
 
-The result should be a high-quality and tidy master pandas DataFrame (or DataFrames, if appropriate).
+The result should be a high-quality and tidy __master pandas DataFrame__ (or DataFrames, if appropriate).
