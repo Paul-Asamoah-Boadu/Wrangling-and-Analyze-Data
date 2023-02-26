@@ -154,3 +154,5 @@ If you need some help with the datasets, you can read the page: Project Motivati
 
 <a id="cleaning"></a>
 <h3>Cleaning Data</h3>
+
+Clean all of the issues you documented while assessing. Perform this cleaning in the "Cleaning Data" section in the `wrangle_act.ipynb`.
