@@ -168,4 +168,6 @@ The result should be a high-quality and tidy __master pandas DataFrame__ (or Dat
 <a id="storing"></a>
 <h3>Storing, Analyzing, and Visualizing Data</h2>
 
+__Storing Data__
+
 In the "Storing Data" section in the `wrangle_act.ipynb` notebook, store the cleaned master DataFrame in a CSV file with the main one named `twitter_archive_master.csv`. 
