@@ -164,3 +164,6 @@ Make sure you complete the following items in this step.
 - Cleaning includes merging individual pieces of data according to the rules of [tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html). 
 
 The result should be a high-quality and tidy __master pandas DataFrame__ (or DataFrames, if appropriate).
+
+<a id="storing"></a>
+<h3>Storing, Analyzing, and Visualizing Data</h2>
