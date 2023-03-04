@@ -172,4 +172,4 @@ __Storing Data__
 
 In the "Storing Data" section in the `wrangle_act.ipynb` notebook, store the cleaned master DataFrame in a CSV file with the main one named `twitter_archive_master.csv`. 
 
-If additional files exist because multiple tables are required for tidiness, name these files appropriately.
+
