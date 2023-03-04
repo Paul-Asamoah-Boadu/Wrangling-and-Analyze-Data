@@ -166,7 +166,7 @@ Make sure you complete the following items in this step.
 The result should be a high-quality and tidy __master pandas DataFrame__ (or DataFrames, if appropriate).
 
 <a id="storing"></a>
-<h3>Storing, Analyzing, and Visualizing Data</h2>
+<h3>Storing, Analyzing and Visualizing Data</h2>
 
 __Storing Data__
 
