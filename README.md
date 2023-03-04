@@ -15,7 +15,7 @@
             <li><a href="#gathering">Gathering Data</a></li>
             <li><a href="#assessing">Assessing Data</a></li>
             <li><a href="#cleaning">Cleaning Data</a></li>
-            <li><a href="#storing">Storing, Analyzing, and Visualizing Data</a></li>
+            <li><a href="#storing">Storing, Analyzing and Visualizing Data</a></li>
         </ul>
     <li><a href="#report">Report</a></li>
     <li><a href="#reference">References</a></li>
