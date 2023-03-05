@@ -174,4 +174,4 @@ In the "Storing Data" section in the `wrangle_act.ipynb` notebook, store the cle
 
 __Analyzing and Visualizing Data__
 
-In the Analyzing and Visualizing Data section in your ``
+In the Analyzing and Visualizing Data section in your `wrangle_act.ipynb`
