@@ -174,4 +174,6 @@ In the "Storing Data" section in the `wrangle_act.ipynb` notebook, store the cle
 
 __Analyzing and Visualizing Data__
 
-In the Analyzing and Visualizing Data section in my `wrangle_act.ipynb`Jupyter Notebook,
+In the Analyzing and Visualizing Data section in my `wrangle_act.ipynb` Jupyter Notebook, I will analyze and visualize the wrangled data.
+
+
