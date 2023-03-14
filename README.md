@@ -179,4 +179,4 @@ In the Analyzing and Visualizing Data section in my `wrangle_act.ipynb` Jupyter 
 <a id="report"></a>
 <h2>Report</h2>
 
-I created a __300-600 word written report__ called `wrangle_report.pdf` or `wrangle_report.html`
+I created a __300-600 word written report__ called `wrangle_report.pdf` or `wrangle_report.html` that briefly describes your wrangling efforts. This is to be framed as an internal document.
