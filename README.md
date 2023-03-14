@@ -178,3 +178,5 @@ In the Analyzing and Visualizing Data section in my `wrangle_act.ipynb` Jupyter 
 
 <a id="report"></a>
 <h2>Report</h2>
+
+I created a __300-600 word written report__ called
