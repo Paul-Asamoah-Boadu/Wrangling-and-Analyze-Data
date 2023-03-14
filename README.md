@@ -181,4 +181,4 @@ In the Analyzing and Visualizing Data section in my `wrangle_act.ipynb` Jupyter 
 
 I created a __300-600 word written report__ called `wrangle_report.ipynb` or `wrangle_report.html` that briefly describes your wrangling efforts. This is to be framed as an internal document.
 
-I also created a __250-word-minimum written report__ called `act_report.ipynb` or `act_report.html`
+I also created a __250-word-minimum written report__ called `act_report.ipynb` or `act_report.html` that communicates __all__ the insights and displays the visualization(s) produced from your wrangled data.
