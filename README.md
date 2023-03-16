@@ -18,7 +18,7 @@
             <li><a href="#storing">Storing, Analyzing and Visualizing Data</a></li>
         </ul>
     <li><a href="#report">Report</a></li>
-    <li><a href="#reference">References</a></li>
+    
 </ul>
 
 <a id="intro"></a>
