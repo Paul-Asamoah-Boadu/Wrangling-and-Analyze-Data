@@ -148,7 +148,7 @@ To meet specifications, the following issues must be assessed.
 - The fact that the rating numerators are greater than the denominators does not need to be cleaned. This [unique rating system](http://knowyourmeme.com/memes/theyre-good-dogs-brent) is a big part of the popularity of WeRateDogs.
 - You do not need to gather the tweets beyond August 1st, 2017. You can, but note that you won't be able to gather the image predictions for these tweets since you don't have access to the algorithm used.</br>
 
-If you need some help with the datasets, you can read the page: Project Motivation.
+If you need some help with the datasets, you can read the page: Project Motivation.</br>
 
 <a id="cleaning"></a>
 <h3>Cleaning Data</h3>
